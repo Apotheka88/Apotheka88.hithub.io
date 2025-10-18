@@ -1,4 +1,4 @@
-# Apotheka88.hithub.io
+# Apotheka88.github.io
 Test Web
 hello
 Markdown
